@@ -1,12 +1,13 @@
 {
 	"recipes":[
 		{
-			"name": "Chicken Legs with Braised Peas and Onions",
-			"description": "Description: Full of flavor and boasting several rich colors, this recipe for chicke legs will quickly become your go-to meal when you want something hearty and delicious. You can easily serve this recipe with a fresh green salad and slices of bread for a meal that is satisfying and filling.",
-			"time": "Time: 1 Hour",
-			"serving": "Serves 4 as main course",
-			"money": "Cost: Moderate",
-			"ingredients": "Ingredients: 4 large 10-12 ounce chickens, 2 tablespoons olive oil, Handful of thyme sprigs, 1 garlic clove, 1.5 tablespoons butter, 2/3 cups of water, 2 tablespoons butter, 7 ounces pearl onions, Few more thyme sprigs, 4 cups green peas, 2/3 cups water, 1 romaine heart"
+		"name": "Chicken Legs with Braised Peas and Onions",
+		"description": "Description: Full of flavor and boasting several rich colors, this recipe for chicke legs will quickly become your go-to meal when you want something hearty and delicious. You can easily serve this recipe with a fresh green salad and slices of bread for a meal that is satisfying and filling.",
+		"time": "Time: 1 Hour",
+		"serving": "Serves 4 as main course",
+		"money": "Cost: Moderate",
+		"ingredients": "Ingredients: 4 large 10-12 ounce chickens, 2 tablespoons olive oil, Handful of thyme sprigs, 1 garlic clove, 1.5 tablespoons butter, 2/3 cups of water, 2 tablespoons butter, 7 ounces pearl onions, Few more thyme sprigs, 4 cups green peas, 2/3 cups water, 1 romaine heart",
+		"siteURL": "https://www.cookstr.com/Chicken-Recipes/Chicken-Legs-with-Braised-Peas-and-Onions"
 		},
         {
         	"name": "Linguine with Lemon, Feta, and Basil",
@@ -14,7 +15,8 @@
         	"time": "Time: 30 Minutes",
         	"serving": "Serves 4 as main course",
         	"money": "Cost: Inexpensive",
-        	"ingredients": "Ingredients:  1 pound fresh linguine, 1/4 cup of olive oil, Grated zest and juice of 1 lemon, 1/3 cup of grated Parmesean, Handful of fresh basil leaves, 7 ouces of Feta cheese crumbled, 2 tablespoons pine nuts"
+        	"ingredients": "Ingredients:  1 pound fresh linguine, 1/4 cup of olive oil, Grated zest and juice of 1 lemon, 1/3 cup of grated Parmesean, Handful of fresh basil leaves, 7 ouces of Feta cheese crumbled, 2 tablespoons pine nuts",
+		"siteURL": "https://www.cookstr.com/Pasta-Recipes/Linguine-with-Lemon-Feta-and-Basil"
         },
         {
         	"name": "Clams with Bacon",
@@ -22,7 +24,8 @@
         	"time": "Time: 25 Minutes",
         	"serving": "Serves 4 as appetizer",
         	"money": "Cost: Moderate",
-        	"ingredients": "Ingredients: 4.5 pounds littleneck clams, 2 tablespoons olive oil, 8 ounces slab bacon cut into 1.5 inch thick chunks, Few thyme sprigs, Splash of dry white wine, Squeeze of lemon juice (optional)"
+        	"ingredients": "Ingredients: 4.5 pounds littleneck clams, 2 tablespoons olive oil, 8 ounces slab bacon cut into 1.5 inch thick chunks, Few thyme sprigs, Splash of dry white wine, Squeeze of lemon juice (optional)",
+		"siteURL": "https://www.cookstr.com/Shellfish-Recipes/Clams-with-Bacon"
         },
         {
         	"name": "Deep Dish Chicken Pie",
@@ -30,7 +33,8 @@
         	"time": "Time: 35 Minutes",
         	"serving": "Serves 4 as main course",
         	"money": "Cost: Moderate",
-        	"ingredients": "Ingredients: 3.75 cups of chicken stock, Thyme sprigs, 3 skinless boneless chicken breasts(about 1.25 pounds total), 10 ounces pearl onions or shallots (peeled), 7 ounces button mushrooms (cleaned), 2 tablespoons butter, 1/3 cup all purpose flour, 1/2 cup heavy cream, 1 pound basic short pastry, 2 extra large egg yolks lightly beaten, 1 tablespoon water for egg wash, Coarse salt for sprinkling"
+        	"ingredients": "Ingredients: 3.75 cups of chicken stock, Thyme sprigs, 3 skinless boneless chicken breasts(about 1.25 pounds total), 10 ounces pearl onions or shallots (peeled), 7 ounces button mushrooms (cleaned), 2 tablespoons butter, 1/3 cup all purpose flour, 1/2 cup heavy cream, 1 pound basic short pastry, 2 extra large egg yolks lightly beaten, 1 tablespoon water for egg wash, Coarse salt for sprinkling",
+		"siteURL": "https://www.cookstr.com/Pies/Deep-Dish-Chicken-Pie"
         },
         {
         	"name": "Chocolate Swirl Cheesecake",
@@ -38,7 +42,8 @@
         	"time": "Time: A day or more",
         	"serving": "Serves 10 as dessert",
         	"money": "Cost: Inexpensive",
-        	"ingredients": "Ingredients: 1.5 cups of crushed graham crackers, 3 tablespoons ground toasted almonds, 4 tablespoons unsalted butter melted, 3/4 cup sugar, 1 cup sour cream, 1.25 pound of cream cheese, 2 extra large eggs, 1 teaspoon vanilla extract"
+        	"ingredients": "Ingredients: 1.5 cups of crushed graham crackers, 3 tablespoons ground toasted almonds, 4 tablespoons unsalted butter melted, 3/4 cup sugar, 1 cup sour cream, 1.25 pound of cream cheese, 2 extra large eggs, 1 teaspoon vanilla extract",
+		"siteURL": "https://www.cookstr.com/Cheesecake/Chocolate-Swirl-Cheesecake-Gordon-Ramsay"
         }
 	],
 	"status": "OK"
